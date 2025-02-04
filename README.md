@@ -7,7 +7,7 @@ Why Analyze Churn?
 - Predictive models can enable proactive retention strategies, improving customer satisfaction and loyalty and thus lowering the probability of churning.
 
 In this project, we will consider and possibly provide answers to questions such as:
-1. Who is at risk of churning?
-2. What kind of factors influence churn?
-3. How do churn patterns vary across different demographics?
-4. What kind of steps can the bank follow to avoid reduce churn?
+1. **Who is at risk of churning?**
+2. **What kind of factors influence churn?**
+3. **How do churn patterns vary across different demographics?**
+4. **What kind of steps can the bank follow to avoid reduce churn?**
