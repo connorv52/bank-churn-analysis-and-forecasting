@@ -1,10 +1,10 @@
 # Data Driven Bank Churn Analysis & Forecasting
-This project seeks to analyze a dataset of bank churners to predict customer attrition, identify factors contributing to customer churn, and build models to forecast which customers are likely to churn. 
+This project seeks to analyze a dataset of bank churners to identify key factors driving client attrition, develop predictive models to forecast churn, and provide data-driven recommendations to help the bank retain its clients. 
 
 ## Why Analyze Churn?
-- Retaining customers is more cost-effective than acquiring new ones.
+- Retaining clients is more cost-effective than acquiring new ones.
 - Insights from churn analysis can help businesses reduce revenue loss.
-- Predictive models can enable proactive retention strategies, improving customer satisfaction and loyalty and thus lowering the probability of churning.
+- Predictive models can enable proactive retention strategies, improving client satisfaction and loyalty and thus lowering the probability of churning.
 
 ### In this project, we will consider and possibly provide answers to questions such as:
 1. **Who is at risk of churning?**
