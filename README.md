@@ -1,4 +1,4 @@
-# Data Driven Bank Churn Analysis & Forecasting
+#Bank Churn Analysis & Forecasting
 This project seeks to analyze a dataset of bank churners to identify key factors driving client attrition, develop predictive models to forecast churn, and provide data-driven recommendations to help the bank retain its clients. 
 
 ## Why Analyze Churn?
