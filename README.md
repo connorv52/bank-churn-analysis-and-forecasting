@@ -12,4 +12,4 @@ This project seeks to analyze a dataset of bank churners to identify key factors
 3. **How do churn patterns vary across different demographics?**
 4. **What steps can the bank follow to avoid and reduce churn?**
 
-Some advanced statistical and machine learning techniques will be used to analyze the data; rest assured their relevance and propriety to this data will be documented at length in addition to explaining any applicable formulae.
+Some advanced statistical and machine learning techniques will be used to analyze the data; rest assured, their relevance and propriety to this data will be documented at length in addition to explaining any applicable formulae.
