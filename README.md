@@ -1,4 +1,4 @@
-# bank-churn-analysis-and-forecasting
+# bank-churn-analysis-and-forecasting 💸
 
 This project seeks to analyze a dataset of bank churners to identify key factors driving client attrition, develop predictive models to forecast churn, and provide data-driven recommendations to help the bank retain its clients. 
 
